@@ -30,22 +30,7 @@ Each bias type was tested using **A/B prompt pairs** that differed in only one s
 
 ---
 
-## 📁 **What’s Included in This Repo**
-
-```
-Task 08/
-│
-├── Task 8 Phase 1.docx     # Experimental design
-├── Task 8 Phase 2.docx     # Data collection
-├── Task 8 Phase 3.docx     # Analysis
-├── Task 8 Phase 4.docx     # Final report & mitigation plan
-├── README.md               # Project overview (this file)
-└── .gitignore              # Ensures datasets/PII are not uploaded
-```
-
-No datasets are included, as required by the research instructions.
-
----
+#-
 
 ## 🧪 **LLMs Used in the Experiment**
 
